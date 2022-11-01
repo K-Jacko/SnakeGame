@@ -14,4 +14,9 @@ Simply put this is the old classic snake game. I will program this using c/c++.
 
 ## Current Build 
 ### Uno  
- - in Development
+ - V 1.0
+ - <img src="UnoBanner.PNG"> 
+ - Currently working and downloadable. Crafted in c++ and runs in a console window.
+ - Close to zero artistic exploration 
+ - [Download](https://wakuminc.itch.io/snakeuno)
+

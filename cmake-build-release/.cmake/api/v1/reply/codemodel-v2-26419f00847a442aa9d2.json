@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.23"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "Release",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SnakeGame::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SnakeGame-Debug-8d074abe8045ffb2a0db.json",
+					"jsonFile" : "target-SnakeGame-Release-019cb382eaab9e04d802.json",
 					"name" : "SnakeGame",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Wake/CLionProjects/SnakeGame/cmake-build-debug",
+		"build" : "C:/Users/Wake/CLionProjects/SnakeGame/cmake-build-release",
 		"source" : "C:/Users/Wake/CLionProjects/SnakeGame"
 	},
 	"version" : 
