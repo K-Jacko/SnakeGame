@@ -1,5 +1,0 @@
-# ninja log v5
-4	1608	6891465941755031	CMakeFiles/SnakeGame.dir/main.cpp.obj	3898dce80efaacb2
-0	28	0	clean	51ec05efbde4e425
-1610	1764	6891465943270727	SnakeGame.exe	9edd75800f85bdfc
-1	462	6894484996180535	build.ninja	173732b1bc8ef847
