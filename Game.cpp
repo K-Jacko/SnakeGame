@@ -89,7 +89,7 @@ void drawSnake()
         }
         else
         {
-            glColor3f(0.0,1.0,1.0);
+            glColor3f(0.0,1.0,0.76);
         }
 
         glRectd(posX[i], posY[i], posX[i] + 1, posY[i] + 1);
