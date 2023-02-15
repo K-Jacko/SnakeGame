@@ -20,7 +20,7 @@ Simply put this is the old classic snake game. I will program this using c/c++.
 - Currently working and downloadable. Crafted in c++ and runs in a console window.
 - Now with fancy end screen!
 - <img src="Media/snake3.PNG">
-- [Download](https://wakuminc.itch.io/snakeuno)
+- [Download](https://wakuminc.itch.io/snake-game-dos)
 
 
 
