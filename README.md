@@ -12,20 +12,16 @@ Simply put this is the old classic snake game. I will program this using c/c++.
 |  Quadro - XR  | Use oculus native libs to get a passthrough game cabinet working |
 
 
-## Current Build 
+## Latest Build 
 
 ### Dos
- - <img src = "Media/Snamke1.gif">
- - V 0.5
- - Moving animations on a grid using glRects and GLUTTimer functions 
- - Static screen size
- - Static grid size
+- V 1.0
+- <img src="Media/Snake2.gif"> 
+- Currently working and downloadable. Crafted in c++ and runs in a console window.
+- Now with fancy end screen!
+- <img src="Media/snake3.PNG">
+- [Download](https://wakuminc.itch.io/snakeuno)
 
-### Uno  
- - V 1.0
- - <img src="Media/UnoBanner.PNG"> 
- - Currently working and downloadable. Crafted in c++ and runs in a console window.
- - Close to zero artistic exploration 
- - [Download](https://wakuminc.itch.io/snakeuno)
+
 
 
